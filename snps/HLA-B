@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>HLA-B - SNPedia</title>
+<meta name="generator" content="MediaWiki 1.25.2" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="ExportRDF" type="application/rdf+xml" title="HLA-B" href="/index.php?title=Special:ExportRDF/HLA-B&amp;xmlmime=rdf" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=HLA-B&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=HLA-B&amp;action=edit" />
+<link rel="shortcut icon" href="http://files.snpedia.com/data/SNPedia_favicon_48x48_2011.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="SNPedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.snpedia.com/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/index.php/HLA-B" />
+<link rel="alternate" type="application/atom+xml" title="SNPedia Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.snpedia.com/load.php?debug=false&amp;lang=en&amp;modules=ext.bootstrap.styles%7Cext.uls.nojs&amp;only=styles&amp;skin=chameleon&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://www.snpedia.com/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=chameleon&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: snpediadb-dna1_:resourceloader:filter:minify-css:7:169def4a70e9269f604864441ef5b5da */</style>
+<script src="http://www.snpedia.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=chameleon&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"HLA-B","wgTitle":"HLA-B","wgCurRevisionId":871428,"wgRevisionId":871428,"wgArticleId":24641,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Is a gene"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"HLA-B","wgRelevantArticleId":24641,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"sfgAutocompleteValues":[],"sfgAutocompleteOnAllChars":false,"sfgFieldProperties":[],"sfgCargoFields":[],"sfgDependentFields":[],"sfgShowOnSelect":[],"sfgScriptPath":"/extensions/SemanticForms","edgValues":null,"sfgEDSettings":null,"wgCargoMapClusteringMinimum":80,"wgCargoMonthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"wgCargoMonthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgCargoWeekDays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"wgCargoWeekDaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+/* cache key: snpediadb-dna1_:resourceloader:filter:minify-js:7:a5c52c063dc436c1ca7c9f456936a5e9 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.uls.init","ext.uls.interface"]);
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgSurveyDebug":false});
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-HLA-B layout-standard skin-chameleon action-view">
+
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3">
+				<!-- logo and main page link -->
+				<div id="p-logo" class="p-logo" role="banner">
+					<a href="/index.php/SNPedia" title="Visit the main page"><img src="http://files.snpedia.com/data/SNPedia_logo_155x46_transColor.png" alt="SNPedia" /></a>
+				</div>
+
+			</div>
+			<div class="col-lg-9">
+				<div class="row">
+					<div class="col-lg-12">
+						<!-- personal tools -->
+						<div class="p-personal pull-right" id="p-personal" >
+							<ul class="p-personal-tools list-inline pull-right" >
+								<li id="pt-uls" class="active"><a href="#" class="uls-trigger autonym">English</a></li>
+								<li id="pt-createaccount"><a href="/index.php?title=Special:UserLogin&amp;returnto=HLA-B&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+								<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=HLA-B" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+							</ul>
+							<div class="newtalk-notifier">
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-12">
+						<!-- search form -->
+						<div  id="p-search" class="p-search pull-right" role="search">
+							<form  id="searchform" class="mw-search form-inline" action="/index.php">
+								<input type="hidden" name="title" value="Special:Search" />
+								<div class="input-group">
+									<input name="search" placeholder="Search" title="Search SNPedia [f]" accesskey="f" id="searchInput" class="form-control" />
+									<div class="input-group-btn">
+										<button value="Go" id="searchGoButton" name="go" title="Go to a page with this exact name if exists" type="submit" class="searchGoButton btn btn-default"><span class="glyphicon glyphicon-share-alt"></span></button><button value="Search" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" class="mw-searchButton btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+									</div>
+								</div>
+							</form>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- navigation bar -->
+				<nav class="navbar navbar-default p-navbar" role="navigation" id="mw-navigation">
+					<div class="container-fluid"><div class="navbar-header">
+	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mw-navigation-collapse">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	</button>
+
+</div>
+<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
+						<!-- navigation -->
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Navigation <b class="caret"></b></a>
+							
+							<ul class="dropdown-menu p-navigation" id="p-navigation">
+									<li id="n-mainpage"><a href="/index.php/SNPedia" title="Visit the main page [z]" accesskey="z">SNPedia</a></li>
+									<li id="n-Promethease"><a href="/index.php/Promethease">Promethease</a></li>
+									<li id="n-faq"><a href="/index.php/SNPedia:FAQ">FAQ</a></li>
+									<li id="n-Blog"><a href="http://snpedia.blogspot.com" rel="nofollow">Blog</a></li>
+									<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+									<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+							</ul>
+						</li></ul>
+</div><!-- /.navbar-collapse -->
+					</div>
+				</nav>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+					<!-- Content navigation -->
+					<ul class="p-contentnavigation list-inline text-center" id="p-contentnavigation">
+						<!-- namespaces -->
+						<li id="p-namespaces">
+							<ul class="list-inline" >
+								<li id="ca-nstab-main" class="selected"><a href="/index.php/HLA-B" title="View the content page [c]" accesskey="c" class="selected">Page</a></li>
+								<li id="ca-talk" class="new"><a href="/index.php?title=Talk:HLA-B&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t" class="new">Discussion</a></li>
+							</ul>
+						</li>
+						<!-- views -->
+						<li id="p-views">
+							<ul class="list-inline" >
+								<li id="ca-edit"><a href="/index.php?title=HLA-B&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+								<li id="ca-history"><a href="/index.php?title=HLA-B&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+							</ul>
+						</li>
+					</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- sitenotice -->
+				<div id="siteNotice" class="siteNotice " ><div id="localNotice" lang="en" dir="ltr"><p>Have questions? Visit <a rel="nofollow" class="external free" href="https://www.reddit.com/r/SNPedia">https://www.reddit.com/r/SNPedia</a>
+</p></div></div>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- start the content area -->
+				<div id="content" class="mw-body"><a id="top"></a>
+				<div  id="mw-js-message" style="display:none;"></div>
+					<div class ="contentHeader">
+						<!-- title of the page -->
+						<h1 id="firstHeading" class="firstHeading">HLA-B</h1>
+						<!-- tagline; usually goes something like "From WikiName" primary purpose of this seems to be for printing to identify the source of the content -->
+						<div id="siteSub">From SNPedia</div><div id="jump-to-nav" class="mw-jump">Jump to:<a href="#mw-navigation">navigation</a>, <a href="#p-search">search</a></div>
+					</div><div id="bodyContent">
+					<!-- body text -->
+
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><span survey-data-id="1" survey-data-expiry="2592000" survey-data-min-pages="5" survey-data-ratio="33" class="surveytag" survey-data-token="+\"></span>
+</p><div style="float:right; margin:1em; width: 25em; text-align: left; font-size: 90%; border:thin solid;">
+<table>
+<tr><td><b>is a</b></td><td><a href="/index.php/Gene" title="Gene">gene</a></td></tr>
+<tr><td><b>is </b></td><td><a href="/index.php/Special:WhatLinksHere/HLA-B" title="Special:WhatLinksHere/HLA-B"> mentioned by</a></td></tr><tr><td><b>Full name</b></td><td>major histocompatibility complex, class I, B</td></tr><tr><td><b>EntrezGene</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/gene/3106">3106</a></td></tr><tr><td><b>PheGenI</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/gap/PheGenI?tab=1&amp;gene=3106">3106</a></td></tr><tr><td><b>VariationViewer</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/sites/varvu?gene=3106">3106</a></td></tr><tr><td><b>ClinVar</b></td><td><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/clinvar?term=HLA-B%5Bgene%5D">HLA-B</a></td></tr><tr><td><b>dbSNP</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=3106&amp;chooseRs=all">3106</a></td></tr><tr><td><b>SADR</b></td><td><a rel="nofollow" class="external text" href="http://gengle.bio-x.cn/cgi-bin/SADR/core_gene_info.cgi?geneid=3106">3106</a></td></tr><tr><td><b>HugeNav</b></td><td><a rel="nofollow" class="external text" href="http://hugenavigator.net/HuGENavigator/huGEPedia.do?firstQuery=HLA-B}&amp;geneID=3106&amp;typeSubmit=GO&amp;check=y&amp;typeOption=gene&amp;which=2&amp;pubOrderType=pubD">3106</a></td></tr><tr><td><b>wikipedia</b></td><td><a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/HLA-B">HLA-B</a></td></tr><tr><td><b>google</b></td><td><a rel="nofollow" class="external text" href="http://www.google.com/search?hl=en&amp;q=HLA-B">HLA-B</a></td></tr>
+<tr><td><b>gopubmed</b></td><td><a rel="nofollow" class="external text" href="http://www.gopubmed.org/search?q=HLA-B">HLA-B</a></td></tr>
+<tr><td><b>EVS</b></td><td><a rel="nofollow" class="external text" href="http://evs.gs.washington.edu/EVS/PopStatsServlet?searchBy=Gene+Hugo&amp;target=HLA-B&amp;upstreamSize=100&amp;downstreamSize=100&amp;x=0&amp;y=0">HLA-B</a></td></tr>
+<tr><td><b>HEFalMp</b></td><td><a rel="nofollow" class="external text" href="http://hefalmp.princeton.edu/gene/all_genes?context=0&amp;name=HLA-B">HLA-B</a></td></tr><tr><td><b><a href="/index.php/23andMe_(help)" title="23andMe (help)">23andMe</a></b></td><td><a rel="nofollow" class="external text" href="https://www.23andme.com/you/explorer/gene/?gene_name=HLA-B">HLA-B</a></td></tr><tr><td><b>UniProt</b></td><td><a rel="nofollow" class="external text" href="http://www.uniprot.org/uniprot/P01889">P01889</a></td></tr><tr><td><b>Ensembl</b></td><td><a rel="nofollow" class="external text" href="http://www.ensembl.org/Homo_sapiens/genesnpview?db=core;gene=ENSG00000234745">ENSG00000234745</a></td></tr><tr><td><b>OMIM</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/omim/142830">142830</a></td></tr><tr><td><b># SNPs</b></td><td>924</td></tr></table>
+<table class="sortable wikitable smwtable"><th>&#160;</th><th class="Max-Magnitude"><a href="/index.php/Property:Max_Magnitude" title="Property:Max Magnitude">Max Magnitude</a></th><th class="Chromosome-position"><a href="/index.php/Property:Chromosome_position" title="Property:Chromosome position">Chromosome position</a></th><th class="Summary"><a href="/index.php/Property:Summary" title="Property:Summary">Summary</a></th><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1049645" title="Rs1049645">Rs1049645</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354145" class="Chromosome-position smwtype_num">31,354,145</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050240" title="Rs1050240">Rs1050240</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31355357" class="Chromosome-position smwtype_num">31,355,357</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050341" title="Rs1050341">Rs1050341</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31355560" class="Chromosome-position smwtype_num">31,355,560</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050368" title="Rs1050368">Rs1050368</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356301" class="Chromosome-position smwtype_num">31,356,301</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050370" title="Rs1050370">Rs1050370</a></td><td></td><td data-sort-value="31356312" class="Chromosome-position smwtype_num">31,356,312</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050379" title="Rs1050379">Rs1050379</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356377" class="Chromosome-position smwtype_num">31,356,377</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050388" title="Rs1050388">Rs1050388</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356729" class="Chromosome-position smwtype_num">31,356,729</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050393" title="Rs1050393">Rs1050393</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356742" class="Chromosome-position smwtype_num">31,356,742</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050458" title="Rs1050458">Rs1050458</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31357148" class="Chromosome-position smwtype_num">31,357,148</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050459" title="Rs1050459">Rs1050459</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31357144" class="Chromosome-position smwtype_num">31,357,144</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050462" title="Rs1050462">Rs1050462</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31357134" class="Chromosome-position smwtype_num">31,357,134</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050486" title="Rs1050486">Rs1050486</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356925" class="Chromosome-position smwtype_num">31,356,925</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050502" title="Rs1050502">Rs1050502</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356890" class="Chromosome-position smwtype_num">31,356,890</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050517" title="Rs1050517">Rs1050517</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356866" class="Chromosome-position smwtype_num">31,356,866</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050518" title="Rs1050518">Rs1050518</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356864" class="Chromosome-position smwtype_num">31,356,864</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050529" title="Rs1050529">Rs1050529</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356838" class="Chromosome-position smwtype_num">31,356,838</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050538" title="Rs1050538">Rs1050538</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356822" class="Chromosome-position smwtype_num">31,356,822</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050543" title="Rs1050543">Rs1050543</a></td><td></td><td data-sort-value="31356818" class="Chromosome-position smwtype_num">31,356,818</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050556" title="Rs1050556">Rs1050556</a></td><td></td><td data-sort-value="31356809" class="Chromosome-position smwtype_num">31,356,809</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050564" title="Rs1050564">Rs1050564</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356785" class="Chromosome-position smwtype_num">31,356,785</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050570" title="Rs1050570">Rs1050570</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356772" class="Chromosome-position smwtype_num">31,356,772</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050628" title="Rs1050628">Rs1050628</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356375" class="Chromosome-position smwtype_num">31,356,375</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050642" title="Rs1050642">Rs1050642</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356351" class="Chromosome-position smwtype_num">31,356,351</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050654" title="Rs1050654">Rs1050654</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356323" class="Chromosome-position smwtype_num">31,356,323</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050683" title="Rs1050683">Rs1050683</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356242" class="Chromosome-position smwtype_num">31,356,242</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050692" title="Rs1050692">Rs1050692</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356214" class="Chromosome-position smwtype_num">31,356,214</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050696" title="Rs1050696">Rs1050696</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356203" class="Chromosome-position smwtype_num">31,356,203</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050723" title="Rs1050723">Rs1050723</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31355544" class="Chromosome-position smwtype_num">31,355,544</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1050747" title="Rs1050747">Rs1050747</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31355519" class="Chromosome-position smwtype_num">31,355,519</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1050823" title="Rs1050823">Rs1050823</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31355426" class="Chromosome-position smwtype_num">31,355,426</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1051488" title="Rs1051488">Rs1051488</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31355134" class="Chromosome-position smwtype_num">31,355,134</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1053726" title="Rs1053726">Rs1053726</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354270" class="Chromosome-position smwtype_num">31,354,270</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1054111" title="Rs1054111">Rs1054111</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354249" class="Chromosome-position smwtype_num">31,354,249</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1055149" title="Rs1055149">Rs1055149</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354181" class="Chromosome-position smwtype_num">31,354,181</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1055348" title="Rs1055348">Rs1055348</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354171" class="Chromosome-position smwtype_num">31,354,171</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1055821" title="Rs1055821">Rs1055821</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354142" class="Chromosome-position smwtype_num">31,354,142</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1055849" title="Rs1055849">Rs1055849</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354139" class="Chromosome-position smwtype_num">31,354,139</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1055890" title="Rs1055890">Rs1055890</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354138" class="Chromosome-position smwtype_num">31,354,138</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1058026" title="Rs1058026">Rs1058026</a></td><td></td><td data-sort-value="31353908" class="Chromosome-position smwtype_num">31,353,908</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1065378" title="Rs1065378">Rs1065378</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356856" class="Chromosome-position smwtype_num">31,356,856</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1065386" title="Rs1065386">Rs1065386</a></td><td></td><td data-sort-value="31356770" class="Chromosome-position smwtype_num">31,356,770</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1065502" title="Rs1065502">Rs1065502</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31355378" class="Chromosome-position smwtype_num">31,355,378</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1071652" title="Rs1071652">Rs1071652</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356424" class="Chromosome-position smwtype_num">31,356,424</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1071816" title="Rs1071816">Rs1071816</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356759" class="Chromosome-position smwtype_num">31,356,759</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1071817" title="Rs1071817">Rs1071817</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356751" class="Chromosome-position smwtype_num">31,356,751</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1093" title="Rs1093">Rs1093</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354129" class="Chromosome-position smwtype_num">31,354,129</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs111301312" title="Rs111301312">Rs111301312</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31354331" class="Chromosome-position smwtype_num">31,354,331</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1131112" title="Rs1131112">Rs1131112</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31356407" class="Chromosome-position smwtype_num">31,356,407</td><td></td></tr><tr class="row-odd"><td class="smwtype_wpg"><a href="/index.php/Rs1131156" title="Rs1131156">Rs1131156</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31357118" class="Chromosome-position smwtype_num">31,357,118</td><td></td></tr><tr class="row-even"><td class="smwtype_wpg"><a href="/index.php/Rs1131159" title="Rs1131159">Rs1131159</a></td><td data-sort-value="0" class="Max-Magnitude smwtype_num">0</td><td data-sort-value="31357115" class="Chromosome-position smwtype_num">31,357,115</td><td></td></tr><tr class="smwfooter row-odd"><td class="sortbottom" colspan="4"><span class="smw-table-furtherresults"><a href="/index.php/Special:Ask/-5B-5BCategory:Is-20a-20snp-5D-5D-20-5B-5Bin-20gene::HLA-2DB-5D-5D/-3FMax-20Magnitude/-3FChromosome-20position/-3FSummary/offset%3D50" title="Special:Ask/-5B-5BCategory:Is-20a-20snp-5D-5D-20-5B-5Bin-20gene::HLA-2DB-5D-5D/-3FMax-20Magnitude/-3FChromosome-20position/-3FSummary/offset=50">... further results</a></span></td></tr></table>
+</div>
+<p><br />
+<b>HLA-B</b> is a gene/antigen in the <a href="/index.php/HLA" title="HLA">HLA</a> system.  There are hundreds of alleles, with many similar variants grouped together, that form subtypes HLA-B*2701 to HLA-B*2763.  The genotype is connected with immunity and autoimmune diseases, specifically autoimmune forms of arthritis.
+</p><p>HLA-B27 is associated with ankylosing spondylitis; Many patients have the allele, but most with the allele do not have AS.
+</p><p>HLA-B51 is associated with Behçet's disease and other inflammatory joint and skin diseases
+</p><p>HLA-B*1502, *5701, and *5801 are associated with drug reactions.
+</p><p>HIV: HLA-B27 or HLA-B57 progress slower, HLA-B35 faster.
+</p><p>HLA-B53 protects against malaria and is most common in West Africa.
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.256 seconds
+Real time usage: 2.154 seconds
+Preprocessor visited node count: 313/1000000
+Preprocessor generated node count: 0/1000000
+Post‐expand include size: 28300/2097152 bytes
+Template argument size: 320/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1915.131      1 - -total
+100.00% 1915.131      1 - Template:Gene
+  0.99%   18.904      1 - Template:Is_a
+-->
+
+<!-- Saved in parser cache with key snpediadb-dna1_:pcache:idhash:24641-0!*!0!*!*!*!* and timestamp 20150919144714 and revision id 871428
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.snpedia.com/index.php?title=HLA-B&amp;oldid=871428">http://www.snpedia.com/index.php?title=HLA-B&amp;oldid=871428</a>"</div>
+</div>
+					<!-- category links -->
+					<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/index.php/Category:Is_a_gene" title="Category:Is a gene">Is a gene</a></li></ul></div></div>
+				</div>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- Tools-->
+				<nav class="navbar navbar-default p-tb " id="p-tb"  >
+					<ul class="nav navbar-nav small">
+						<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/HLA-B" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/HLA-B" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+						<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+						<li id="t-print"><a href="/index.php?title=HLA-B&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+						<li id="t-permalink"><a href="/index.php?title=HLA-B&amp;oldid=871428" title="Permanent link to this revision of the page">Permanent link</a></li>
+						<li id="t-info"><a href="/index.php?title=HLA-B&amp;action=info" title="More information about this page">Page information</a></li>
+						<li id="t-cargopagevalueslink"><a href="/index.php?title=HLA-B&amp;action=pagevalues" rel="cargo-pagevalues">Page values</a></li>
+						<li id="t-smwbrowselink"><a href="/index.php/Special:Browse/HLA-2DB" rel="smw-browse">Browse properties</a></li>
+						
+					</ul>
+				</nav>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- footer links -->
+				<ul class="footer-info list-unstyled small" id="footer-info">
+					<!-- info -->
+					<li> This page was last modified on 22 November 2014, at 21:06.</li>
+				</ul>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<!-- places -->
+				<ul class="list-inline footer-places " id="footer-places">
+					<li><small><a href="/index.php/SNPedia:Privacy_policy" title="SNPedia:Privacy policy">Privacy policy</a></small></li>
+					<li><small><a href="/index.php/SNPedia:About" title="SNPedia:About">About SNPedia</a></small></li>
+					<li><small><a href="/index.php/SNPedia:General_disclaimer" title="SNPedia:General disclaimer">Disclaimers</a></small></li>
+				</ul>
+
+			</div>
+			<div class="col-lg-6">
+				<!-- footer icons -->
+				<ul class="list-inline pull-right footer-icons " id="footer-icons" >
+					<!-- poweredby -->
+					<li><a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a></li>
+					<li><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a></li>
+					<!-- ncbi -->
+					<li><a href="http://www.ncbi.nlm.nih.gov/"><img src="http://s3.amazonaws.com/snpedia/public/NCBI_powered.png" alt="Powered by the NCBI" width="88" height="31" /></a></li>
+				</ul>
+
+			</div>
+		</div>
+	</div><script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.survey.tag","ext.smw.tooltips","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.uls.pt","ext.bootstrap.scripts"],null,true);
+}</script>
+<script src="//meta.wikimedia.org/geoiplookup"></script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"http://www.snpedia.com/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=chameleon\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-535901-3', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":444});
+}</script></body>
+</html>

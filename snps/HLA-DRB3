@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>HLA-DRB3 - SNPedia</title>
+<meta name="generator" content="MediaWiki 1.25.2" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="ExportRDF" type="application/rdf+xml" title="HLA-DRB3" href="/index.php?title=Special:ExportRDF/HLA-DRB3&amp;xmlmime=rdf" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=HLA-DRB3&amp;action=edit" />
+<link rel="edit" title="Edit" href="/index.php?title=HLA-DRB3&amp;action=edit" />
+<link rel="shortcut icon" href="http://files.snpedia.com/data/SNPedia_favicon_48x48_2011.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="SNPedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.snpedia.com/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/index.php/HLA-DRB3" />
+<link rel="alternate" type="application/atom+xml" title="SNPedia Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.snpedia.com/load.php?debug=false&amp;lang=en&amp;modules=ext.bootstrap.styles%7Cext.uls.nojs&amp;only=styles&amp;skin=chameleon&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://www.snpedia.com/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=chameleon&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: snpediadb-dna1_:resourceloader:filter:minify-css:7:169def4a70e9269f604864441ef5b5da */</style>
+<script src="http://www.snpedia.com/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=chameleon&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"HLA-DRB3","wgTitle":"HLA-DRB3","wgCurRevisionId":871507,"wgRevisionId":871507,"wgArticleId":116836,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Is a gene"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"HLA-DRB3","wgRelevantArticleId":116836,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"sfgAutocompleteValues":[],"sfgAutocompleteOnAllChars":false,"sfgFieldProperties":[],"sfgCargoFields":[],"sfgDependentFields":[],"sfgShowOnSelect":[],"sfgScriptPath":"/extensions/SemanticForms","edgValues":null,"sfgEDSettings":null,"wgCargoMapClusteringMinimum":80,"wgCargoMonthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"wgCargoMonthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgCargoWeekDays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"wgCargoWeekDaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+/* cache key: snpediadb-dna1_:resourceloader:filter:minify-js:7:a5c52c063dc436c1ca7c9f456936a5e9 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.uls.init","ext.uls.interface"]);
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgSurveyDebug":false});
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-HLA-DRB3 layout-standard skin-chameleon action-view">
+
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3">
+				<!-- logo and main page link -->
+				<div id="p-logo" class="p-logo" role="banner">
+					<a href="/index.php/SNPedia" title="Visit the main page"><img src="http://files.snpedia.com/data/SNPedia_logo_155x46_transColor.png" alt="SNPedia" /></a>
+				</div>
+
+			</div>
+			<div class="col-lg-9">
+				<div class="row">
+					<div class="col-lg-12">
+						<!-- personal tools -->
+						<div class="p-personal pull-right" id="p-personal" >
+							<ul class="p-personal-tools list-inline pull-right" >
+								<li id="pt-uls" class="active"><a href="#" class="uls-trigger autonym">English</a></li>
+								<li id="pt-createaccount"><a href="/index.php?title=Special:UserLogin&amp;returnto=HLA-DRB3&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+								<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=HLA-DRB3" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+							</ul>
+							<div class="newtalk-notifier">
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-12">
+						<!-- search form -->
+						<div  id="p-search" class="p-search pull-right" role="search">
+							<form  id="searchform" class="mw-search form-inline" action="/index.php">
+								<input type="hidden" name="title" value="Special:Search" />
+								<div class="input-group">
+									<input name="search" placeholder="Search" title="Search SNPedia [f]" accesskey="f" id="searchInput" class="form-control" />
+									<div class="input-group-btn">
+										<button value="Go" id="searchGoButton" name="go" title="Go to a page with this exact name if exists" type="submit" class="searchGoButton btn btn-default"><span class="glyphicon glyphicon-share-alt"></span></button><button value="Search" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" class="mw-searchButton btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+									</div>
+								</div>
+							</form>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- navigation bar -->
+				<nav class="navbar navbar-default p-navbar" role="navigation" id="mw-navigation">
+					<div class="container-fluid"><div class="navbar-header">
+	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mw-navigation-collapse">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	</button>
+
+</div>
+<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
+						<!-- navigation -->
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Navigation <b class="caret"></b></a>
+							
+							<ul class="dropdown-menu p-navigation" id="p-navigation">
+									<li id="n-mainpage"><a href="/index.php/SNPedia" title="Visit the main page [z]" accesskey="z">SNPedia</a></li>
+									<li id="n-Promethease"><a href="/index.php/Promethease">Promethease</a></li>
+									<li id="n-faq"><a href="/index.php/SNPedia:FAQ">FAQ</a></li>
+									<li id="n-Blog"><a href="http://snpedia.blogspot.com" rel="nofollow">Blog</a></li>
+									<li id="n-recentchanges"><a href="/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+									<li id="n-randompage"><a href="/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+							</ul>
+						</li></ul>
+</div><!-- /.navbar-collapse -->
+					</div>
+				</nav>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+					<!-- Content navigation -->
+					<ul class="p-contentnavigation list-inline text-center" id="p-contentnavigation">
+						<!-- namespaces -->
+						<li id="p-namespaces">
+							<ul class="list-inline" >
+								<li id="ca-nstab-main" class="selected"><a href="/index.php/HLA-DRB3" title="View the content page [c]" accesskey="c" class="selected">Page</a></li>
+								<li id="ca-talk" class="new"><a href="/index.php?title=Talk:HLA-DRB3&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t" class="new">Discussion</a></li>
+							</ul>
+						</li>
+						<!-- views -->
+						<li id="p-views">
+							<ul class="list-inline" >
+								<li id="ca-edit"><a href="/index.php?title=HLA-DRB3&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+								<li id="ca-history"><a href="/index.php?title=HLA-DRB3&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+							</ul>
+						</li>
+					</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- sitenotice -->
+				<div id="siteNotice" class="siteNotice " ><div id="localNotice" lang="en" dir="ltr"><p>Have questions? Visit <a rel="nofollow" class="external free" href="https://www.reddit.com/r/SNPedia">https://www.reddit.com/r/SNPedia</a>
+</p></div></div>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- start the content area -->
+				<div id="content" class="mw-body"><a id="top"></a>
+				<div  id="mw-js-message" style="display:none;"></div>
+					<div class ="contentHeader">
+						<!-- title of the page -->
+						<h1 id="firstHeading" class="firstHeading">HLA-DRB3</h1>
+						<!-- tagline; usually goes something like "From WikiName" primary purpose of this seems to be for printing to identify the source of the content -->
+						<div id="siteSub">From SNPedia</div><div id="jump-to-nav" class="mw-jump">Jump to:<a href="#mw-navigation">navigation</a>, <a href="#p-search">search</a></div>
+					</div><div id="bodyContent">
+					<!-- body text -->
+
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><span survey-data-id="1" survey-data-expiry="2592000" survey-data-min-pages="5" survey-data-ratio="33" class="surveytag" survey-data-token="+\"></span>
+</p><div style="float:right; margin:1em; width: 25em; text-align: left; font-size: 90%; border:thin solid;">
+<table>
+<tr><td><b>is a</b></td><td><a href="/index.php/Gene" title="Gene">gene</a></td></tr>
+<tr><td><b>is </b></td><td><a href="/index.php/Special:WhatLinksHere/HLA-DRB3" title="Special:WhatLinksHere/HLA-DRB3"> mentioned by</a></td></tr><tr><td><b>Full name</b></td><td>major histocompatibility complex, class II, DR beta 3</td></tr><tr><td><b>EntrezGene</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/gene/3125">3125</a></td></tr><tr><td><b>PheGenI</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/gap/PheGenI?tab=1&amp;gene=3125">3125</a></td></tr><tr><td><b>VariationViewer</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/sites/varvu?gene=3125">3125</a></td></tr><tr><td><b>ClinVar</b></td><td><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/clinvar?term=HLA-DRB3%5Bgene%5D">HLA-DRB3</a></td></tr><tr><td><b>dbSNP</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=3125&amp;chooseRs=all">3125</a></td></tr><tr><td><b>SADR</b></td><td><a rel="nofollow" class="external text" href="http://gengle.bio-x.cn/cgi-bin/SADR/core_gene_info.cgi?geneid=3125">3125</a></td></tr><tr><td><b>HugeNav</b></td><td><a rel="nofollow" class="external text" href="http://hugenavigator.net/HuGENavigator/huGEPedia.do?firstQuery=HLA-DRB3}&amp;geneID=3125&amp;typeSubmit=GO&amp;check=y&amp;typeOption=gene&amp;which=2&amp;pubOrderType=pubD">3125</a></td></tr><tr><td><b>wikipedia</b></td><td><a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/HLA-DRB3">HLA-DRB3</a></td></tr><tr><td><b>google</b></td><td><a rel="nofollow" class="external text" href="http://www.google.com/search?hl=en&amp;q=HLA-DRB3">HLA-DRB3</a></td></tr>
+<tr><td><b>gopubmed</b></td><td><a rel="nofollow" class="external text" href="http://www.gopubmed.org/search?q=HLA-DRB3">HLA-DRB3</a></td></tr>
+<tr><td><b>EVS</b></td><td><a rel="nofollow" class="external text" href="http://evs.gs.washington.edu/EVS/PopStatsServlet?searchBy=Gene+Hugo&amp;target=HLA-DRB3&amp;upstreamSize=100&amp;downstreamSize=100&amp;x=0&amp;y=0">HLA-DRB3</a></td></tr>
+<tr><td><b>HEFalMp</b></td><td><a rel="nofollow" class="external text" href="http://hefalmp.princeton.edu/gene/all_genes?context=0&amp;name=HLA-DRB3">HLA-DRB3</a></td></tr><tr><td><b><a href="/index.php/23andMe_(help)" title="23andMe (help)">23andMe</a></b></td><td><a rel="nofollow" class="external text" href="https://www.23andme.com/you/explorer/gene/?gene_name=HLA-DRB3">HLA-DRB3</a></td></tr><tr><td><b>UniProt</b></td><td><a rel="nofollow" class="external text" href="http://www.uniprot.org/uniprot/P79483">P79483</a></td></tr><tr><td><b>OMIM</b></td><td><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/omim/612735">612735</a></td></tr><tr><td><b># SNPs</b></td><td>0</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.092 seconds
+Real time usage: 0.141 seconds
+Preprocessor visited node count: 106/1000000
+Preprocessor generated node count: 0/1000000
+Post‐expand include size: 3777/2097152 bytes
+Template argument size: 287/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   92.885      1 - -total
+100.00%   92.885      1 - Template:Gene
+  4.59%    4.265      1 - Template:Is_a
+-->
+
+<!-- Saved in parser cache with key snpediadb-dna1_:pcache:idhash:116836-0!*!0!*!*!*!* and timestamp 20150920112216 and revision id 871507
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.snpedia.com/index.php?title=HLA-DRB3&amp;oldid=871507">http://www.snpedia.com/index.php?title=HLA-DRB3&amp;oldid=871507</a>"</div>
+</div>
+					<!-- category links -->
+					<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/index.php/Category:Is_a_gene" title="Category:Is a gene">Is a gene</a></li></ul></div></div>
+				</div>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- Tools-->
+				<nav class="navbar navbar-default p-tb " id="p-tb"  >
+					<ul class="nav navbar-nav small">
+						<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/HLA-DRB3" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/HLA-DRB3" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+						<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+						<li id="t-print"><a href="/index.php?title=HLA-DRB3&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+						<li id="t-permalink"><a href="/index.php?title=HLA-DRB3&amp;oldid=871507" title="Permanent link to this revision of the page">Permanent link</a></li>
+						<li id="t-info"><a href="/index.php?title=HLA-DRB3&amp;action=info" title="More information about this page">Page information</a></li>
+						<li id="t-cargopagevalueslink"><a href="/index.php?title=HLA-DRB3&amp;action=pagevalues" rel="cargo-pagevalues">Page values</a></li>
+						<li id="t-smwbrowselink"><a href="/index.php/Special:Browse/HLA-2DDRB3" rel="smw-browse">Browse properties</a></li>
+						
+					</ul>
+				</nav>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- footer links -->
+				<ul class="footer-info list-unstyled small" id="footer-info">
+					<!-- info -->
+					<li> This page was last modified on 23 November 2014, at 11:58.</li>
+				</ul>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<!-- places -->
+				<ul class="list-inline footer-places " id="footer-places">
+					<li><small><a href="/index.php/SNPedia:Privacy_policy" title="SNPedia:Privacy policy">Privacy policy</a></small></li>
+					<li><small><a href="/index.php/SNPedia:About" title="SNPedia:About">About SNPedia</a></small></li>
+					<li><small><a href="/index.php/SNPedia:General_disclaimer" title="SNPedia:General disclaimer">Disclaimers</a></small></li>
+				</ul>
+
+			</div>
+			<div class="col-lg-6">
+				<!-- footer icons -->
+				<ul class="list-inline pull-right footer-icons " id="footer-icons" >
+					<!-- poweredby -->
+					<li><a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a></li>
+					<li><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a></li>
+					<!-- ncbi -->
+					<li><a href="http://www.ncbi.nlm.nih.gov/"><img src="http://s3.amazonaws.com/snpedia/public/NCBI_powered.png" alt="Powered by the NCBI" width="88" height="31" /></a></li>
+				</ul>
+
+			</div>
+		</div>
+	</div><script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.survey.tag","ext.smw.tooltips","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.uls.pt","ext.bootstrap.scripts"],null,true);
+}</script>
+<script src="//meta.wikimedia.org/geoiplookup"></script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"http://www.snpedia.com/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=chameleon\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-535901-3', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":559});
+}</script></body>
+</html>

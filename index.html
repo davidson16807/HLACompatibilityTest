@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The HLA Compatibility Test</title>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+</head>
+<body>
+<style type="text/css">
+	body{
+		padding: 1em
+	}
+	.section{
+		padding: 1em 2em;
+		padding-left: 2em; 
+		margin: 1em 1em;
+		border-color: black;
+		border-width: 1px;
+		border-style: solid;
+		background-color: #eee;
+	}
+	.person.section .results{
+		padding: 1em;
+	}
+	.collapse{
+		display: none;
+	}
+</style>
+<div>
+	<b>Instructions:</b>
+	Upload one or more .txt files from 23andme. Compare scores to determine biological compatibility.
+</div>
+<div class="person 1 section">
+	<b>Person 1: </b>
+	<input type="file" class="person1" />
+	<div class="collapse results">
+
+		<div>
+			Zygosity: 
+			<span class="heterozygosity"></span> 
+			of 
+			<span class="total"></span>
+			(<span class="percent"></span>)
+		</div>
+		<div class="link">
+			Copy <a href="#" class="">this link</a> to make your own compatibility test page
+		</div>
+	</div>
+</div>
+<div class="person 2 section">
+	<b>Person 2: </b>
+	<input type="file" class="person2" />
+	<div class="collapse results">
+		<div>
+			Zygosity: 
+			<span class="heterozygosity"></span> 
+			of 
+			<span class="total"></span>
+			(<span class="percent"></span>)
+		</div>
+		<div class="link">
+			Copy <a href="#" class="">this link</a> to make your own compatibility test page
+		</div>
+	</div>
+</div>
+<div class="collapse offspring heterozygosity section">
+	Compatibility: 
+	<span class="offspring heterozygosity"></span> 
+	of 
+	<span class="offspring total"></span>
+	(<span class="offspring percent"></span>)
+
+</div>
+
+<div class="explanation section">
+	<b>About:</b>
+	<p>Higher scores indicate greater "biological compatibility". In an ideal match, the "compatiblity score" is greater than either person's "zygosity score".</p>
+	<details>
+		<summary><b>What does the score measure?</b></summary>
+		<p>The score measures dissimilarity in the <a href="">Human Leukocyte Antigen</a> (HLA) region. The HLA region comprises a set of genes that govern behavior in the human immune system. Studies suggest that traits within this region may influence a person's preference in romantic partner. A person's body odor, for instance, is perceived as more attractive when the HLA region of that person is genetically dissimilar. <a href="">[source]</a> Couples who are dissimilar in this way have been shown to experience greater fidelity and romantic satisfaction. <a href="">[source]</a></p>
+	</details>
+	<details>
+		<summary><b>How is it measured?</b></summary>
+		<p>That requires some explanation. The chromosomes in your body come in pairs. Of the two chromosomes in a pair, one came from your mom; the other came from your dad. Both chromosomes express the same set of traits, but sometimes they can disagree on how they express them. One chromosome might express blonde hair; the other might express red hair. When your chromosomes express a trait differently, that trait is said to be "heterozygous". The "zygosity score" measures the fraction of traits in the HLA region that are heterozygous.</p>
+		<p>The attraction felt towards HLA-dissimilar individuals has the overall effect of increasing zygosity in the HLA region of offspring. No preference has ever been found in humans for more specific gene combinations. <a href="">[source]</a> Based on this finding, the "compatibility score" measures the expected zygosity score of offspring.</p>
+	</details>
+</div>
+<script type="text/javascript">
+	Base64 = {
+
+	    _Rixits :
+	//   0       8       16      24      32      40      48      56     63
+	//   v       v       v       v       v       v       v       v      v
+	    "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz+/",
+	    // You have the freedom, here, to choose the glyphs you want for 
+	    // representing your base-64 numbers. The ASCII encoding guys usually
+	    // choose a set of glyphs beginning with ABCD..., but, looking at
+	    // your update #2, I deduce that you want glyphs beginning with 
+	    // 0123..., which is a fine choice and aligns the first ten numbers
+	    // in base 64 with the first ten numbers in decimal.
+
+	    // This cannot handle negative numbers and only works on the 
+	    //     integer part, discarding the fractional part.
+	    // Doing better means deciding on whether you're just representing
+	    // the subset of javascript numbers of twos-complement 32-bit integers 
+	    // or going with base-64 representations for the bit pattern of the
+	    // underlying IEEE floating-point number, or representing the mantissae
+	    // and exponents separately, or some other possibility. For now, bail
+	    fromNumber : function(number) {
+	        if (isNaN(Number(number)) || number === null ||
+	            number === Number.POSITIVE_INFINITY)
+	            throw "The input is not valid";
+	        if (number < 0)
+	            throw "Can't represent negative numbers now";
+
+	        var rixit; // like 'digit', only in some non-decimal radix 
+	        var residual = Math.floor(number);
+	        var result = '';
+	        while (true) {
+	            rixit = residual % 64
+	            // console.log("rixit : " + rixit);
+	            // console.log("result before : " + result);
+	            result = this._Rixits.charAt(rixit) + result;
+	            // console.log("result after : " + result);
+	            // console.log("residual before : " + residual);
+	            residual = Math.floor(residual / 64);
+	            // console.log("residual after : " + residual);
+
+	            if (residual == 0)
+	                break;
+	            }
+	        return result;
+	    },
+
+	    toNumber : function(rixits) {
+	        var result = 0;
+	        // console.log("rixits : " + rixits);
+	        // console.log("rixits.split('') : " + rixits.split(''));
+	        rixits = rixits.split('');
+	        for (e in rixits) {
+	            // console.log("_Rixits.indexOf(" + rixits[e] + ") : " + 
+	                // this._Rixits.indexOf(rixits[e]));
+	            // console.log("result before : " + result);
+	            result = (result * 64) + this._Rixits.indexOf(rixits[e]);
+	            // console.log("result after : " + result);
+	        }
+	        return result;
+	    }
+	}
+	var Genotype = {
+		toCode: {
+			AA: 1,
+			AC: 2,
+			AG: 3,
+			AT: 4,
+			CC: 6,
+			CG: 7,
+			CT: 8,
+			GG: 9,
+			GT: 'a',
+			TT: 'b',
+		},
+		fromCode: {
+			1: 'AA',
+			2: 'AC',
+			3: 'AG',
+			4: 'AT',
+			6: 'CC',
+			7: 'CG',
+			8: 'CT',
+			9: 'GG',
+			'a': 'GT',
+			'b': 'TT',
+		}
+	}
+	var hla = {rs2076183:1,rs9258186:1,rs1736926:1,rs1736924:1,rs2235383:1,rs1736922:1,rs1233334:1,rs12722477:1,rs17875402:1,rs1632933:1,rs1704:1,rs66554220:1,rs1063320:1,rs9380142:1,rs1610696:1,rs2523822:1,rs41552215:1,rs41562119:1,rs41541518:1,rs41558913:1,rs41556217:1,rs41555316:1,rs2571381:1,rs3823339:1,rs3823342:1,rs3823343:1,rs1061235:1,rs2499:1,rs1264459:1,rs9468784:1,rs17195362:1,rs35075694:1,rs1049281:1,rs2001181:1,rs9264602:1,rs7383157:1,rs9264942:1,rs1058067:1,rs1058026:1,rs1057412:1,rs1057387:1,rs3177763:1,rs3177766:1,rs1056978:1,rs3177778:1,rs361531:1,rs1055348:1,rs11546718:1,rs1053726:1,rs2428496:1,rs3819301:1,rs11546716:1,rs3819299:1,rs3819285:1,rs7768579:1,rs3819276:1,rs3211558:1,rs41559918:1,rs41559613:1,rs3177921:1,rs34437781:1,rs928815:1,rs7762619:1,rs2857708:1,rs2844484:1,rs2009658:1,rs915654:1,rs1800683:1,rs2239704:1,rs909253:1,rs2229094:1,rs1041981:1,rs7758128:1,rs3129871:1,rs14004:1,rs3129876:1,rs9268644:1,rs3135394:1,rs9268645:1,rs3129878:1,rs3135393:1,rs3129881:1,rs3129882:1,rs6911777:1,rs3129883:1,rs3129886:1,rs3129887:1,rs9268658:1,rs3135391:1,rs8084:1,rs2239806:1,rs2239805:1,rs2239804:1,rs11544315:1,rs7192:1,rs3129888:1,rs2239803:1,rs2239802:1,rs3177928:1,rs7194:1,rs7197:1,rs1041885:1,rs3135388:1,rs2395182:1,rs2227139:1,rs3129889:1,rs3129890:1,rs3830135:1,rs9281873:1,rs35762616:1,rs35096981:1,rs35283503:1,rs9272346:1,rs2187668:1,rs9272535:1,rs2284189:1,rs9272723:1,rs9272869:1,rs9272888:1,rs6927022:1,rs9273349:1,rs9273363:1,rs6906021:1,rs1063355:1,rs2854275:1,rs9274312:1,rs7775228:1,rs9276977:1,rs419434:1,rs7905:1,rs3077:1,rs2301227:1,rs2301226:1,rs1367728:1,rs9469332:1,rs9469335:1,rs1054025:1,rs2301225:1,rs9469341:1,rs1042190:1,rs1042178:1,rs10214910:1,rs2301224:1,rs2301220:1,rs9277341:1,rs9469343:1,rs6914849:1,rs1431399:1,rs1431400:1,rs1431401:1,rs2051548:1,rs9380340:1,rs987870:1,rs2071349:1,rs2071351:1,rs2071353:1,rs2071354:1,rs3135021:1,rs41544522:1,rs1042121:1,rs41553216:1,rs1042140:1,rs1042151:1,rs2856826:1,rs9378177:1,rs7772134:1,rs9277359:1,rs9277378:1,rs9277386:1,rs9277396:1,rs9277426:1,rs1042335:1,rs14362:1,rs9277464:1,rs9277469:1,rs3097675:1,rs9277471:1,rs9277533:1,rs9277535:1,rs9277546:1,rs9277554:1,rs9277555:1,rs3128965:1,rs3128966:1,rs3117229:1,rs3117228:1,rs9277557:1,rs9277565:1,rs3130188:1,rs3091282:1,rs8099917:1};
+
+	var person1, person2;
+	
+	var querystring = [];
+	var querystring_raw = window.location.href.split('?')[1];
+	if (querystring_raw !== void 0) {
+		for(var i = 0, 
+			hashes = window.location.href.split('?')[1].split('&'); 
+			i < hashes.length; i++)
+		{
+		    var hash = hashes[i].split('=');
+		    querystring.push(hash[0]);
+		    querystring[hash[0]] = hash[1];
+		}	
+		person1 = {};
+		for (var i = 0; i < querystring.length; i++) {
+			var snp_name_base64 = querystring[i];
+			var snp_name = Base64.toNumber(snp_name_base64);
+			person1["rs"+snp_name] = { genotype: Genotype.fromCode[querystring[snp_name_base64]] };
+		};
+		$('input.person1').hide();
+		$('.person.1 .link').hide();
+		render_person(person1, $('.person.1'));
+	};
+
+	function load_23andme (file, callback) {
+		var reader = new FileReader();
+	    //reader.onerror = function(e) {};
+	    //reader.onprogress = function(e) {};
+	    //reader.onabort = function(e) {};
+	    //reader.onloadstart = function(e) {};
+	    reader.onload = function(e) {
+	    	var text = e.target.result;
+	    	var lines = text.split(/\n/);
+	    	var table = lines.map(function(line) {
+	    		return line.split(/\t/);
+	    	})
+	    	var relevant = table
+		    	.map(function(row) {
+		    		return {
+		    			name: 		row[0], 
+		    			chromosome: row[1],
+		    			position: 	row[2],
+		    			genotype: 	row[3],
+		    		};
+		    	})
+	    		.filter(function(snp) {
+		    		return hla[snp.name] !== void 0 && 
+		    			snp.genotype.match(/I/) === null &&
+		    			snp.genotype.match(/-/) === null;
+		    	});
+		    var snps = {};
+		    relevant.map(function(snp) {
+		    	snps[snp.name] = snp;
+		    })
+			console.log(snps);
+			callback(snps);
+	    }
+	    reader.readAsText(file);
+	}
+	function compare_people(person1, person2) {
+		/*
+		See compare_snp() function for more detailed discussion.
+
+		This scoring function is based on the expected number of heterozygous traits in progeny, i.e. the sum of probabilities for each snp. 
+
+		The expected number of heterozygous traits is divided by maximum possible to control for missing data. 
+		*/
+		if (person1 === void 0) {
+			return;
+		};
+		if (person2 === void 0) {
+			return;
+		};
+		var expected = 0;
+		var ideal = 0;
+		for (var snp_name in hla) {
+			if (person1[snp_name] !== void 0 && 
+				person2[snp_name] !== void 0 &&
+				person1[snp_name].genotype !== void 0 &&
+				person2[snp_name].genotype !== void 0) {
+				score = compare_snp(person1[snp_name], person2[snp_name]);
+				console.log(snp_name, person1[snp_name].genotype, person2[snp_name].genotype, score);
+				expected += score;
+				ideal += 1;
+			};
+		};
+		return {expected: expected, ideal: ideal};
+	}
+	function compare_snp (snp1, snp2) {
+		/*
+		This scoring function is designed based upon the following observations from Wedekind, C., et al. 1997:
+		 * Both genders may have a preference towards certain MHC genotypes
+		 * Observed preferences have the effect of increasing MHC heterozygosity in progeny, but do not select for any more specific combinations
+
+		Also important to keep in mind, though not considered here:
+		 * Female preference seems driven by odor's similarity to father (Jacob 2002)
+
+		The scoring function expresses compatibility based upon the probability that progeny would be heterozygous
+		*/
+
+		return ((snp1.genotype[0] !== snp2.genotype[0]? 1:0) +
+				(snp1.genotype[0] !== snp2.genotype[1]? 1:0) +
+				(snp1.genotype[1] !== snp2.genotype[0]? 1:0) +
+				(snp1.genotype[1] !== snp2.genotype[1]? 1:0)  ) / 4 ;
+	}
+	function heterozygosity (person) {
+		if (person === void 0) {
+			return;
+		};
+		var result = 0;
+		var total = 0;
+		for (var snp_name in hla) {
+			if (person[snp_name] !== void 0 && person[snp_name].genotype !== void 0) {
+				var genotype = person[snp_name].genotype;
+				result += (genotype[0] !== genotype[1]? 1:0);
+				total += 1;
+			};
+		};
+
+		return { result: result, total: total };
+	}
+	function person_url (person) {
+		var result = [];
+		for (var snp_name in hla) {
+			if (person[snp_name] !== void 0 && person[snp_name].genotype !== void 0) {
+				result.push(Base64.fromNumber(parseInt(snp_name.replace(/^rs/, ''))) + '=' + Genotype.toCode[person[snp_name].genotype.replace(/[ \t\n\r]/, '')]);
+			};
+		}
+		return window.location.href.split('?')[0] + '?' + result.join('&');
+	}
+	function format_percent (fraction) {
+		return Math.round(fraction * 100) + "%";
+	}
+	function render_person (person, div) {
+		var hetero_score = heterozygosity(person);
+		div.find('div.results').show();
+		div.find('span.heterozygosity').text(hetero_score.result);
+		div.find('span.total').text(hetero_score.total);
+		div.find('span.percent').text(format_percent(hetero_score.result / hetero_score.total));
+		div.find('a').attr('href', person_url(person));
+		var compatibility = compare_people(person1, person2);
+		if (compatibility !== void 0){
+			$('div.offspring.heterozygosity').show();
+			$('span.offspring.heterozygosity').text(compatibility.expected);
+			$('span.offspring.total').text(compatibility.ideal);
+			$('span.offspring.percent').text(format_percent(compatibility.expected / compatibility.ideal));
+		}
+	}
+	$('.person.1 input').on('change', function(e){ 
+		load_23andme(e.target.files[0], 
+			function(snps) {
+				person1 = snps;
+				render_person(snps, $('.person.1'));
+			});
+	})
+	$('.person.2 input').on('change', function(e){ 
+		load_23andme(e.target.files[0], 
+			function(snps) {
+				person2 = snps;
+				render_person(snps, $('.person.2'));
+			});
+	})
+</script>
+</body>
+</html>
