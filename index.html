@@ -4,28 +4,10 @@
 	<title>The HLA Compatibility Test</title>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="libraries/Base64.js"></script>
+	<link rel="stylesheet" type="text/css" href="styles/main.css">
 </head>
 <body>
-<style type="text/css">
-	body{
-		padding: 1em
-	}
-	.section{
-		padding: 1em 2em;
-		padding-left: 2em; 
-		margin: 1em 1em;
-		border-color: black;
-		border-width: 1px;
-		border-style: solid;
-		background-color: #eee;
-	}
-	.person.section .results{
-		padding: 1em;
-	}
-	.collapse{
-		display: none;
-	}
-</style>
 <div>
 	<b>Instructions:</b>
 	Upload one or more .txt files from 23andme. Compare scores to determine biological compatibility.
@@ -81,72 +63,12 @@
 	</details>
 	<details>
 		<summary><b>How is it measured?</b></summary>
-		<p>That requires some explanation. The chromosomes in your body come in pairs. Of the two chromosomes in a pair, one came from your mom; the other came from your dad. Both chromosomes express the same set of traits, but sometimes they can disagree on how they express them. One chromosome might express blonde hair; the other might express red hair. When your chromosomes express a trait differently, that trait is said to be "heterozygous". The "zygosity score" measures the fraction of traits in the HLA region that are heterozygous.</p>
-		<p>The attraction felt towards HLA-dissimilar individuals has the overall effect of increasing zygosity in the HLA region of offspring. No preference has ever been found in humans for more specific gene combinations. <a href="">[source]</a> Based on this finding, the "compatibility score" measures the expected zygosity score of offspring.</p>
+		<p>That requires some explanation. The chromosomes in your body come in pairs. Of the two chromosomes in a pair, one came from your mom; the other came from your dad. Both chromosomes express the same set of traits, but sometimes they can disagree on how they express them. For instance, one chromosome might express blonde hair, but the other chromosome might express red hair. When your chromosomes express a trait differently, that trait is said to be "heterozygous". The "zygosity score" measures the fraction of traits in the HLA region that are heterozygous.</p>
+		<p>The attraction felt towards HLA-dissimilar individuals has the overall effect of increasing zygosity in the HLA region of offspring. There is no known preference to form more specific gene combinations. <a href="">[source]</a> Based on this finding, the "compatibility score" measures the expected zygosity score of offspring.</p>
 	</details>
 </div>
 <script type="text/javascript">
-	Base64 = {
 
-	    _Rixits :
-	//   0       8       16      24      32      40      48      56     63
-	//   v       v       v       v       v       v       v       v      v
-	    "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz+/",
-	    // You have the freedom, here, to choose the glyphs you want for 
-	    // representing your base-64 numbers. The ASCII encoding guys usually
-	    // choose a set of glyphs beginning with ABCD..., but, looking at
-	    // your update #2, I deduce that you want glyphs beginning with 
-	    // 0123..., which is a fine choice and aligns the first ten numbers
-	    // in base 64 with the first ten numbers in decimal.
-
-	    // This cannot handle negative numbers and only works on the 
-	    //     integer part, discarding the fractional part.
-	    // Doing better means deciding on whether you're just representing
-	    // the subset of javascript numbers of twos-complement 32-bit integers 
-	    // or going with base-64 representations for the bit pattern of the
-	    // underlying IEEE floating-point number, or representing the mantissae
-	    // and exponents separately, or some other possibility. For now, bail
-	    fromNumber : function(number) {
-	        if (isNaN(Number(number)) || number === null ||
-	            number === Number.POSITIVE_INFINITY)
-	            throw "The input is not valid";
-	        if (number < 0)
-	            throw "Can't represent negative numbers now";
-
-	        var rixit; // like 'digit', only in some non-decimal radix 
-	        var residual = Math.floor(number);
-	        var result = '';
-	        while (true) {
-	            rixit = residual % 64
-	            // console.log("rixit : " + rixit);
-	            // console.log("result before : " + result);
-	            result = this._Rixits.charAt(rixit) + result;
-	            // console.log("result after : " + result);
-	            // console.log("residual before : " + residual);
-	            residual = Math.floor(residual / 64);
-	            // console.log("residual after : " + residual);
-
-	            if (residual == 0)
-	                break;
-	            }
-	        return result;
-	    },
-
-	    toNumber : function(rixits) {
-	        var result = 0;
-	        // console.log("rixits : " + rixits);
-	        // console.log("rixits.split('') : " + rixits.split(''));
-	        rixits = rixits.split('');
-	        for (e in rixits) {
-	            // console.log("_Rixits.indexOf(" + rixits[e] + ") : " + 
-	                // this._Rixits.indexOf(rixits[e]));
-	            // console.log("result before : " + result);
-	            result = (result * 64) + this._Rixits.indexOf(rixits[e]);
-	            // console.log("result after : " + result);
-	        }
-	        return result;
-	    }
-	}
 	var Genotype = {
 		toCode: {
 			AA: 1,

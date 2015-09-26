@@ -1,0 +1,20 @@
+<style type="text/css">
+	body{
+		padding: 1em
+	}
+	.section{
+		padding: 1em 2em;
+		padding-left: 2em; 
+		margin: 1em 1em;
+		border-color: black;
+		border-width: 1px;
+		border-style: solid;
+		background-color: #eee;
+	}
+	.person.section .results{
+		padding: 1em;
+	}
+	.collapse{
+		display: none;
+	}
+</style>

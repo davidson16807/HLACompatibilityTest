@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":
+	[
+	    {
+	        "name": "hla-compatibility-test",
+	        // "cmd": ["firefox", "~/Code/tectonics.js/index.html"]
+	        "cmd": ["google-chrome", "./index.html"]
+	        // "cmd": ["chrome", "F:\\Code\\tectonics.js\\index.html"]
+	        // "cmd": ["C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe", "F:\\Code\\tectonics.js\\index.html"]
+	    }
+	]
+}

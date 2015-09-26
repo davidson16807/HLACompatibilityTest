@@ -1,0 +1,1747 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Base",
+				"Base64"
+			],
+			[
+				"heter",
+				"hetero_score"
+			],
+			[
+				"geno",
+				"genotype"
+			],
+			[
+				"ge",
+				"genotype"
+			],
+			[
+				"quer",
+				"querystring_raw"
+			],
+			[
+				"genotype",
+				"genotypes"
+			],
+			[
+				"from",
+				"fromNumber"
+			],
+			[
+				"pers",
+				"person"
+			],
+			[
+				"person",
+				"person"
+			],
+			[
+				"comp",
+				"compatibility"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"per",
+				"person1"
+			],
+			[
+				"heterozy",
+				"heterzygosity"
+			],
+			[
+				"snp",
+				"snp_name"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"densit",
+				"density"
+			],
+			[
+				"heigh",
+				"height"
+			],
+			[
+				"con",
+				"control_points"
+			],
+			[
+				"rock",
+				"rock_column"
+			],
+			[
+				"cont",
+				"control_point"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"bu",
+				"buffer_array_index"
+			],
+			[
+				"age",
+				"age_laplacian"
+			],
+			[
+				"agel",
+				"age_laplacians"
+			],
+			[
+				"scalarF",
+				"scalarFieldEditor"
+			],
+			[
+				"render",
+				"render_pass"
+			],
+			[
+				"data_pas",
+				"data_pass_target2"
+			],
+			[
+				"vectorFie",
+				"vectorField"
+			],
+			[
+				"scalarFie",
+				"scalarField"
+			],
+			[
+				"vectorF",
+				"vectorField"
+			],
+			[
+				"lapla",
+				"laplace_g"
+			],
+			[
+				"field_type",
+				"field_type"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"demo",
+				"demo_selector"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"vect",
+				"vector"
+			],
+			[
+				"scalar-demo",
+				"scalar-field-demo"
+			],
+			[
+				"grad",
+				"grad_grad_g"
+			],
+			[
+				"fiel",
+				"field_type"
+			],
+			[
+				"scalar",
+				"scalarFragmentShader"
+			],
+			[
+				"fragment",
+				"fragment_template"
+			],
+			[
+				"display",
+				"display_value"
+			],
+			[
+				"displa",
+				"display_value"
+			],
+			[
+				"Vect",
+				"Vector3"
+			],
+			[
+				"domain",
+				"domain-x"
+			],
+			[
+				"uniform",
+				"uniforms"
+			],
+			[
+				"vector",
+				"vectorShader"
+			],
+			[
+				"input",
+				"CHECKED	input"
+			],
+			[
+				"scalarfi",
+				"scalarFieldEditor"
+			],
+			[
+				"vectorField",
+				"vectorFieldEditor"
+			],
+			[
+				"move",
+				"move_text"
+			],
+			[
+				"soft",
+				"soft_redo"
+			],
+			[
+				"delete",
+				"delete_word"
+			],
+			[
+				"contex",
+				"contextual_move"
+			],
+			[
+				"scalarFiel",
+				"scalarFieldEditorContainer"
+			],
+			[
+				"pos",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"at",
+				"attr	.attr() - multiple"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"toggle",
+				"toggle	.toggle() (show/hide)"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"load",
+				"loadTexture"
+			],
+			[
+				"moll",
+				"mollweide_theta"
+			],
+			[
+				"vec",
+				"vec2"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"time",
+				"times"
+			],
+			[
+				"te",
+				"texture_file"
+			],
+			[
+				"ma",
+				"material"
+			],
+			[
+				"show_",
+				"show_at_center"
+			],
+			[
+				"land",
+				"land_fraction"
+			],
+			[
+				"thi",
+				"thickness"
+			],
+			[
+				"ocean",
+				"ocean_fraction"
+			],
+			[
+				"ed",
+				"edge1"
+			],
+			[
+				"max",
+				"maxVal"
+			],
+			[
+				"min",
+				"minVal"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"height",
+				"height_rank"
+			],
+			[
+				"z",
+				"zDotMultipliers"
+			],
+			[
+				"g",
+				"getRandomPoint"
+			],
+			[
+				"harmonics",
+				"harmonics_lookup"
+			],
+			[
+				"Mat",
+				"Matrix4"
+			],
+			[
+				"point",
+				"pointNum"
+			],
+			[
+				"poin",
+				"pointNum"
+			],
+			[
+				"getRan",
+				"getRandomPointAlongGreatCircle"
+			],
+			[
+				"euler",
+				"eulerPoleX"
+			],
+			[
+				"longest",
+				"longestPathEulerPole"
+			],
+			[
+				"short",
+				"shortestPathEulerPole"
+			],
+			[
+				"new",
+				"newSupercontinentPos"
+			],
+			[
+				"ol",
+				"oldSupercontinentPos"
+			],
+			[
+				"visible",
+				"visibleFaces"
+			],
+			[
+				"vertex",
+				"vertexId"
+			],
+			[
+				"ver",
+				"vertex"
+			],
+			[
+				"fa",
+				"faces"
+			],
+			[
+				"hol",
+				"hole"
+			],
+			[
+				"process",
+				"processing"
+			],
+			[
+				"assign",
+				"assignPoints"
+			],
+			[
+				"gol",
+				"golden"
+			],
+			[
+				"gold",
+				"golden_angle"
+			],
+			[
+				"T",
+				"THREEx"
+			],
+			[
+				"Th",
+				"THREE"
+			],
+			[
+				"cell",
+				"cells"
+			],
+			[
+				"density",
+				"densityOffset"
+			],
+			[
+				"vor",
+				"voronoiPointNum"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"nei",
+				"neighborIds"
+			],
+			[
+				"lat",
+				"latNum"
+			],
+			[
+				"sub",
+				"subjugatedPlate"
+			],
+			[
+				"world",
+				"worldToLocal"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"this",
+				"this_"
+			],
+			[
+				"op",
+				"operand"
+			],
+			[
+				"pla",
+				"plates"
+			],
+			[
+				"valu",
+				"values"
+			],
+			[
+				"geome",
+				"geometries"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (custom)"
+			],
+			[
+				"raste",
+				"raster_id"
+			],
+			[
+				"Vertex",
+				"vertexShaders"
+			],
+			[
+				"Frag",
+				"fragmentShaders"
+			],
+			[
+				"even",
+				"event"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11349,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "wrap",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"insert",
+				"Insert Nums"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"markprev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"levels",
+				"Levels: Update"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"exp",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"go",
+				"Google Search: Search any"
+			],
+			[
+				"emme",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"permut",
+				"Permute Lines: Reverse"
+			],
+			[
+				"goo",
+				"Google Search: Search any"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"ex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"g",
+				"Google Search: Search any"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"expa",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emm",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"",
+				"Browser Integration: Close browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"browser",
+				"Browser Integration: Close browser"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"google",
+				"Google Search: Search any"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"beauti",
+				"Javascript Beautify"
+			],
+			[
+				"lint",
+				"JSLint"
+			],
+			[
+				"line ",
+				"Line Ending: Unix"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"minify",
+				"Minify::Minify File"
+			],
+			[
+				"Snippet: for",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"view in ",
+				"View In Browser"
+			],
+			[
+				"git push",
+				"Git (SideBarGit): Push"
+			],
+			[
+				"git commit",
+				"Git (SideBarGit): Commit…"
+			],
+			[
+				"package ",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"commit",
+				"Git (SideBarGit): Commit…"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"repl",
+				"Set Syntax: Io Repl"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 87.0,
+		"history":
+		[
+			"1.61803**2",
+			"1.61803**3",
+			"60*60*24*7",
+			"60*60*24",
+			"60*60",
+			"1.61**-4",
+			"1.61**-3",
+			"1.61**-2",
+			"1.61**2",
+			"1.61**-2",
+			"0.61**-2",
+			"0.61**-3",
+			"0.61^3",
+			"7100-800",
+			"`",
+			".618**3",
+			".618**2",
+			".618**4",
+			".618**3",
+			".618**2",
+			".38*.38",
+			".38^2",
+			".61**-2",
+			".61**-3",
+			".61**-1",
+			".61**2",
+			".618**11",
+			".618**10",
+			".618**6",
+			".618**5",
+			".618**2",
+			".61**4",
+			".61**3",
+			".61**2",
+			".61^2",
+			"5+2",
+			"view.run_command(\"toggle_overwrite\", {})",
+			"view.sel()",
+			"view",
+			"view.scanner.scan(1, 1)",
+			"window.scanner.scan(1, 1)",
+			"view.visible_region()",
+			"view.line(1)",
+			"view.line(0)",
+			"view.full_line(0)",
+			"view.full_line(1)",
+			"view.full_line()",
+			"view.substr()",
+			"view.substr(1)",
+			"window.substr(1)",
+			"substr(1)",
+			"window.scanner.scan(self.direction, self.indent_offset)",
+			"view.scanner.scan(self.direction, self.indent_offset)",
+			"self.scanner.scan(self.direction, self.indent_offset)",
+			"view.run_command(\"move\", {\"by\": \"groups\", \"forward\": False})",
+			"view.run_command(\"move\", {\"by\": \"group\", \"forward\": False})",
+			"view.run_command(\"move\", {\"by\": \"block\", \"forward\": False})",
+			"view.run_command(\"move\", {\"by\": \"blocks\", \"forward\": False})",
+			"view.run_command(\"move\", {\"by\": \"lines\", \"forward\": False})",
+			"view.run_command(\"contextual_move\", {\"context\": 'history'})",
+			"view.run_command(\"undo\", {})",
+			"view.run_command(\"contextual_move\", {\"direction\": 'up'})",
+			"view.run_command(\"contextual_move\", {\"context\": 'words'})",
+			"view.run_command(\"contextual_move\", {\"direction\": 'up'})",
+			"view.run_command(\"contextual_move\", {\"context\": 'words'})",
+			"view.run_command(\"contextual_move\", {\"context\": 'foo'})",
+			"view.run_command(\"contextual_move\", {})",
+			"view.run_command(\"contextual_move\", {\"context\": 'foo'})",
+			"view.run_command(\"contextual_move\", {})",
+			"view.run_command(\"contextual_move\", {foo: 'foo'})",
+			"view.run_command(\"contextual_move\", {state: 'foo'})",
+			"view.run_command(\"contextual_move\", {})",
+			"view.run_command(\"contextual_move\", {\"context\": 'foo'})",
+			"view.run_command(\"contextual_move\", {})",
+			"view.run_command(\"contextual_move\", {\"context\": False})",
+			"view.run_command(\"contextual_move\", {\"by\": \"lines\", \"forward\": False})",
+			"view.run_command(\"contextual_move\", {})",
+			"view.run_command(\"contextual_move\", {\"by\": \"lines\", \"forward\": False, \"extend\": True})",
+			"view.run_command(\"contextual_move\", {})",
+			"view.run_command(\"contextual_move\")",
+			"view.run_command(\"contextual_move\", {\"context\": \"lines\"})",
+			"view.xyzzy",
+			"view.foo",
+			"view.run_command(\"contextual_move\", {\"by\": \"lines\", \"forward\": False, \"extend\": True})",
+			"view.run_command(\"contextual_move\")",
+			"view.run_command(\"contextual_move\", {\"by\": \"lines\", \"forward\": False, \"extend\": True})",
+			"view.run_command(\"contextualmove\", {\"by\": \"lines\", \"forward\": False, \"extend\": True})",
+			"view.run_command(\"contextualMove\", {\"by\": \"lines\", \"forward\": False, \"extend\": True})",
+			"view.run_command(\"contextualmove\", {\"by\": \"lines\", \"forward\": False, \"extend\": True})",
+			"view.run_command(\"ContextualMoveCommand\", {\"by\": \"lines\", \"forward\": False, \"extend\": True})",
+			"view.run_command(\"move\", {\"by\": \"lines\", \"forward\": False, \"extend\": True})",
+			"view.run_command(\"move\", {\"by\": \"lines\", \"forward\": false, \"extend\": true})",
+			"view.run_command(\"move\", forward=False, extend=False)",
+			"view.run_command(\"move\", forward=false, extend=false)",
+			"view.run_command(\"move\", forward: false, extend: false)",
+			"view.run_command(\"move\");",
+			"view.run_command(\"move\", args= {\"by\": \"lines\", \"forward\": false, \"extend\": true})",
+			"view.run_command(\"move\", args: {\"by\": \"lines\", \"forward\": false, \"extend\": true})",
+			"view.run_command(\"move\", \"args\": {\"by\": \"lines\", \"forward\": false, \"extend\": true})",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/carl/Media/Documents/Geneology/hla/HLACompatibilityTest",
+		"/media/carl/Media/Documents/Geneology/hla/HLACompatibilityTest/libraries"
+	],
+	"file_history":
+	[
+		"/media/carl/Media/Documents/Geneology/hla/HLACompatibilityTest/styles/main.css",
+		"/media/carl/Media/Documents/Geneology/hla/HLACompatibilityTest/libraries/Base64.js",
+		"/home/carl/Code/tectonics.js/styles/bootstrap.custom.css",
+		"/home/carl/Code/tectonics.js/styles/bootstrap.min.css",
+		"/media/carl/Media/Documents/Geneology/hla/index.html",
+		"/media/carl/Media/Documents/Geneology/hla/index.html?gene_name=HLA-A",
+		"/media/carl/Media/Documents/Geneology/hla/snps.in.23andme.sh",
+		"/home/carl/.cache/.fr-AC3B6r/bootstrap-3.3.5-dist/css/bootstrap.css",
+		"/home/carl/Code/tectonics.js/libraries/bootstrap.js",
+		"/home/carl/Code/tectonics.js/icons/map-512px.svg",
+		"/home/carl/Code/tectonics.js/styles/bootstrap.spinner.css",
+		"/home/carl/Code/tectonics.js/libraries/bootstrap.spinner.js",
+		"/home/carl/Code/tectonics.js/index.html",
+		"/home/carl/Code/tectonics.js/scripts/model/World.js",
+		"/home/carl/Backup/Linux/reinstall",
+		"/home/carl/Code/tectonics.js/libraries/three.js/BufferGeometryUtils.js",
+		"/home/carl/Code/tectonics.js/scripts/view/View.js",
+		"/home/carl/Code/tectonics.js/libraries/three.js/ConvexGeometry.js",
+		"/home/carl/Code/tectonics.js/libraries/threex/THREEx.FibonacciSphereGeometry.js",
+		"/home/carl/Code/tectonics.js/scripts/model/Plate.js",
+		"/home/carl/Code/tectonics.js/scripts/model/WorldGenerator.js",
+		"/home/carl/Code/tectonics.js/scripts/Grid.js",
+		"/home/carl/Code/tectonics.js/_layouts/default.html",
+		"/home/carl/Code/tectonics.js/blog/blog.css",
+		"/home/carl/Code/tectonics.js/styles/modern.css",
+		"/home/carl/Code/tectonics.js/styles/main.css",
+		"/home/carl/Code/tectonics.js/scripts/JsonSerializer.js",
+		"/home/carl/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/carl/Code/tectonics.js/scripts/model/Model.js",
+		"/home/carl/Code/tectonics.js/_posts/2015-8-21-worldgen.md",
+		"/mnt/78DE6F2BDE6EE0BC/Code/nabla/index.html",
+		"/home/carl/Code/tectonics.js/_posts/2014-1-25-youtube.md",
+		"/home/carl/.xbindkeysrc",
+		"/home/carl/Code/tectonics.js/libraries/random-0.26.js",
+		"/home/carl/Code/tectonics.js/tectonics.sublime-project",
+		"/home/carl/Code/tectonics.js/scripts/view/fragment/FragmentShaders.js",
+		"/mnt/78DE6F2BDE6EE0BC/Code/sublime_contextual_move/Default (Linux).sublime-keymap",
+		"/home/carl/Code/tectonics.js/scripts/model/RockColumn.js",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/F/Code/tectonics.js/tectonics.sublime-project",
+		"/F/Code/3BillionYears/index.html",
+		"/F/Code/field-calculator/css/main.css",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Default (Windows).sublime-keymap",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Default (Linux).sublime-keymap",
+		"/F/Code/field-calculator/index.html",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Default (OSX).sublime-keymap",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/ContextualMoveCommand.py",
+		"/F/Code/field-calculator/vendor/three.js/RenderPass.js",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime.keymap",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/AceJump/Default (Windows).sublime.keymap",
+		"/F/Code/field-calculator/field-calculator.sublime-project",
+		"/F/Documents/Work/Pioneer/GT6.GenomeTileProvider.git/GenomeTileProvider/Browser/shader_demo.js",
+		"/F/Code/field-calculator/codemirror/clike.js",
+		"/F/Documents/Work/Pioneer/GT6.GenomeTileProvider.git/GenomeTileProvider/Browser/shader_demo.html",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/TransposeCommand.py",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Delete Subword.sublime-macro",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/README.md",
+		"/F/Code/field-calculator/README.md",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Delete Subword Before.sublime-macro",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Delete Line Before.sublime-macro",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Delete to BOL.sublime-macro",
+		"/C/Users/Carl/AppData/Local/Temp/7zEC45442FE/Find Results.hidden-tmLanguage",
+		"/F/Documents/Work/Pioneer/GT6.GenomeTileProvider.git/GenomeTileProvider/Browser/Points.js",
+		"/F/Documents/Work/Pioneer/GT6.GenomeTileProvider.git/GenomeTileProvider/Browser/reduce_demo.html",
+		"/F/Documents/Work/Pioneer/GT6.GenomeTileProvider.git/GenomeTileProvider/Browser/Nucleotides.js",
+		"/F/Documents/Work/Pioneer/GT6.GenomeTileProvider.git/GenomeTileProvider/Browser/ShaderPass.js",
+		"/F/Documents/Work/Pioneer/GT6.GenomeTileProvider.git/GenomeTileProvider/Browser/RenderPass.js",
+		"/F/Code/field-calculator/vendor/three.js/Three.js",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Delete Line.sublime-macro",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Delete Left Right.sublime-macro",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/ContextualMove/Delete to EOL.sublime-macro",
+		"/F/Documents/Work/Pioneer/GT6.GenomeTileProvider.git/GenomeTileProvider/Browser/fragment.glsl.c",
+		"/F/Code/field-calculator/field-calculator.sublime-workspace",
+		"/F/Code/multivariate-graphing-calculator/css/main.css",
+		"/F/Code/multivariate-graphing-calculator/index.html",
+		"/F/Code/field-calculator/vendor/threex/THREEx.Debug.js",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/Code/field-calculator/css/app.css",
+		"/F/Code/field-calculator/icons/pause-circled-512px.svg",
+		"/F/Code/field-calculator/icons/play-circled-512px.svg",
+		"/C/Users/Carl/Downloads/pause-circled-512px (1).svg",
+		"/F/Code/field-calculator/.git/COMMIT_EDITMSG",
+		"/F/Code/field-calculator/.git/config",
+		"/F/Code/field-calculator/.git/description",
+		"/F/Code/field-calculator/.git/HEAD",
+		"/F/Code/field-calculator/.git/index",
+		"/F/Code/field-calculator/.git/sourcetreeconfig",
+		"/F/Code/field-calculator/.git/refs/heads/master",
+		"/F/Code/field-calculator/molleweide.glsl.c",
+		"/F/Code/field-calculator/vendor/three.js/OrbitControls.js",
+		"/F/Code/field-calculator/field-calculator.sublime-project",
+		"/F/Code/tectonics.js/scripts/model/RockColumn.js",
+		"/F/Code/tectonics.js/scripts/view/View.js",
+		"/F/Code/tectonics.js/libraries/lodash.min.js",
+		"/F/Code/tectonics.js/scripts/Publisher.js",
+		"/F/Code/tectonics.js/scripts/model/Model.js",
+		"/F/Code/tectonics.js/index.html",
+		"/F/Code/tectonics.js/scripts/model/World.js",
+		"/F/Code/tectonics.js/scripts/model/Cell.js",
+		"/F/Code/tectonics.js/scripts/VoronoiSphere.js",
+		"/F/Code/tectonics.js/scripts/model/SupercontinentCycle.js",
+		"/F/Code/tectonics.js/scripts/model/Plate.js",
+		"/F/Code/tectonics.js/scripts/JsonSerializer.js",
+		"/F/Code/tectonics.js/styles/main.css",
+		"/F/Code/tectonics.js/scripts/model/WorldGenerator.js",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/User/optional.sublime-snippet",
+		"/F/Code/tectonics.js/libraries/three.js/Three.js",
+		"/F/Code/tectonics.js/scripts/Sphere.js",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/User/ContextualMoveCommand.py",
+		"/F/Code/tectonics.js/libraries/threex/THREEx.Debug.js",
+		"/F/Code/tectonics.js/scripts/model/EliasWorldGen.js",
+		"/F/Code/tectonics.js/scripts/model/CratonWorldGen.js",
+		"/F/Code/tectonics.js/scripts/view/fragment/debug.glsl.c",
+		"/F/Code/tectonics.js/scripts/Debug.js",
+		"/F/Code/tectonics.js/scripts/model/Sphere.js",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/Translator/translator.java",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/DeepSpaceDesign.doc",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/Camel/Camel.java",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/Adventure/enemies.txt",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/Adventure/objects.txt",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/Adventure/adventure.txt",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/Backups of Seaplane/Seaplane backed up on Sep 2 2006 at 5h53m21s PM.a2w",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/Virtual Pets/Main.java",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/Virtual Pets/Pet.java",
+		"/F/Documents/Work/UnderGrad/freshman/CMSC/ChaosConcept/ChaosConcept.txt",
+		"/F/Code/tectonics.js/libraries/three.js/ConvexGeometry.js",
+		"/F/Code/tectonics.js/libraries/threex/THREEx.FibonacciSphereGeometry.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"F:\\Code\\tectonics.js\\",
+			"F:\\Code\\tectonics.js",
+			"F:\\Code\\field-calculator",
+			"F:\\Code\\tectonics.js\\scripts",
+			"F:\\Code\\tectonics.js\\",
+			"F:\\Code\\tectonics.js\\scripts",
+			"F:\\Code\\tectonics.js\\",
+			"F:\\Code\\tectonics.js\\scripts",
+			"F:\\Code\\tectonics.js\\",
+			"F:\\Code\\tectonics.js\\scripts",
+			"F:\\Code\\tectonics.js\\",
+			"F:\\Code\\tectonics.js\\scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h4",
+			"h3",
+			"express",
+			"system",
+			"Heterozygosity",
+			"heterozygosity",
+			"Heterozygosity",
+			"Heterozy",
+			"Heterozygosity: ",
+			"heterozygosity",
+			"Heterozygosity",
+			"span",
+			"<span class=\"total\"></span>",
+			"ideal",
+			"expected",
+			"compatibility",
+			"person1",
+			"genotype",
+			",",
+			"[",
+			"ii",
+			"true",
+			"fromCode",
+			"genotype",
+			"10",
+			"person1",
+			"console",
+			"36",
+			"perce",
+			"percent",
+			"Copy <a href=\"#\" class=\"\">this link</a> to make your own compatibility test page",
+			"person",
+			"child",
+			"$",
+			" ",
+			"person 2",
+			"person 1",
+			"person 1 ",
+			"snp",
+			"person1",
+			"heterozygosity.",
+			"heterozygosity",
+			"alleles",
+			"heterozygosity",
+			"heterozygosity(snps)",
+			"heterozygosity",
+			"total",
+			"heterzygosity",
+			"heterozygosity",
+			"offspring",
+			"1",
+			"val",
+			"snps",
+			"compatibility",
+			"2",
+			"5",
+			"10em",
+			"heterozygosity",
+			"div",
+			"1",
+			"div",
+			"snp.",
+			"snp",
+			"snp2",
+			"snp1",
+			",",
+			"rs",
+			",",
+			" +",
+			"+ ",
+			"hla",
+			"HLA",
+			"hla",
+			"HLA",
+			"hla",
+			";",
+			"12em",
+			"-",
+			"div",
+			"fullscreen",
+			"enter",
+			"exit",
+			"style=\"width:100%; text-align:left;\"",
+			"style=\"width: 170px;\"",
+			"spinner",
+			".time",
+			"age",
+			"div",
+			"btn-sm",
+			"-sm",
+			"btn-sm",
+			"format_text",
+			"format(",
+			"format",
+			"age",
+			"initial",
+			"snp",
+			"rain",
+			"match",
+			"test",
+			"score",
+			"heterozygous_num",
+			"male",
+			"female",
+			"algorithm",
+			"A",
+			".A",
+			"try_compare",
+			"person1",
+			"input",
+			"lookup",
+			"relevant",
+			"snps",
+			"load_file",
+			"rs",
+			"loadFile",
+			"#load-input",
+			"btn-default",
+			"rs",
+			"12em",
+			"button",
+			"div",
+			"style",
+			"class",
+			"data-option",
+			"width:100%",
+			"aria-pressed",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"make",
+			"prepare",
+			"detail",
+			"radius",
+			"indices",
+			"vertices",
+			"radius",
+			"renderer",
+			"find"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11349,
+						"regions":
+						{
+							"mark":
+							{
+								"flags": 144,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										288,
+										288
+									]
+								],
+								"scope": "mark"
+							}
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 212.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "field-calculator",
+	"project": "HLACompatibilityTest.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ac",
+				"styles/app.css"
+			],
+			[
+				"app",
+				"styles/app.css"
+			],
+			[
+				"boc",
+				"styles/bootstrap.custom.css"
+			],
+			[
+				"appcss",
+				"styles/app.css"
+			],
+			[
+				"ap",
+				"styles/app.css"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"buf",
+				"libraries/three.js/BufferGeometryUtils.js"
+			],
+			[
+				"bufge",
+				"libraries/three.js/BufferGeometryUtils.js"
+			],
+			[
+				"gri",
+				"scripts/Grid.js"
+			],
+			[
+				"conv",
+				"libraries/three.js/ConvexGeometry.js"
+			],
+			[
+				"conve",
+				"libraries/three.js/ConvexGeometry.js"
+			],
+			[
+				"fib",
+				"libraries/threex/THREEx.FibonacciSphereGeometry.js"
+			],
+			[
+				"elwor",
+				"scripts/model/WorldGenerator.js"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"wor",
+				"scripts/model/World.js"
+			],
+			[
+				"p",
+				"scripts/model/Plate.js"
+			],
+			[
+				"viewjs",
+				"scripts/view/View.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"css",
+				"styles/modern.css"
+			],
+			[
+				"def",
+				"_layouts/default.html"
+			],
+			[
+				"main",
+				"styles/main.css"
+			],
+			[
+				"js",
+				"scripts/JsonSerializer.js"
+			],
+			[
+				"d",
+				"_layouts/default.html"
+			],
+			[
+				"bl",
+				"blog/blog.css"
+			],
+			[
+				"wg",
+				"scripts/model/WorldGenerator.js"
+			],
+			[
+				"worldmd",
+				"_posts/2015-8-21-worldgen.md"
+			],
+			[
+				"worlg",
+				"scripts/model/WorldGenerator.js"
+			],
+			[
+				"layou",
+				"_layouts/default.html"
+			],
+			[
+				"2md",
+				"_posts/2014-1-25-youtube.md"
+			],
+			[
+				"ran",
+				"libraries/random-0.26.js"
+			],
+			[
+				"fs",
+				"scripts/view/fragment/FragmentShaders.js"
+			],
+			[
+				"roc",
+				"scripts/model/RockColumn.js"
+			],
+			[
+				"worg",
+				"scripts/model/WorldGenerator.js"
+			],
+			[
+				"model",
+				"scripts/model/Model.js"
+			],
+			[
+				"rock",
+				"scripts/model/RockColumn.js"
+			],
+			[
+				"view",
+				"scripts\\view\\View.js"
+			],
+			[
+				"cs",
+				"css\\main.css"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"three",
+				"vendor\\three.js\\Three.js"
+			],
+			[
+				"sh",
+				"F:\\Documents\\Work\\Pioneer\\GT6.GenomeTileProvider.git\\GenomeTileProvider\\Browser\\shader_demo.html"
+			],
+			[
+				"thr",
+				"vendor\\three.js\\Three.js"
+			],
+			[
+				"ma",
+				"css\\main.css"
+			],
+			[
+				"m",
+				"css\\main.css"
+			],
+			[
+				"play",
+				"icons\\play-circled-512px.svg"
+			],
+			[
+				"moll",
+				"molleweide.glsl.c"
+			],
+			[
+				"worl",
+				"scripts\\model\\WorldGenerator.js"
+			],
+			[
+				"lod",
+				"libraries\\lodash.min.js"
+			],
+			[
+				"mode",
+				"scripts\\model\\Model.js"
+			],
+			[
+				"c",
+				"scripts\\model\\Cell.js"
+			],
+			[
+				"pl",
+				"scripts\\model\\Plate.js"
+			],
+			[
+				"cel",
+				"scripts\\model\\Cell.js"
+			],
+			[
+				"ce",
+				"scripts\\model\\Cell.js"
+			],
+			[
+				"ro",
+				"scripts\\model\\RockColumn.js"
+			],
+			[
+				"wo",
+				"scripts\\model\\WorldGenerator.js"
+			],
+			[
+				"sph",
+				"scripts\\Sphere.js"
+			],
+			[
+				"deb",
+				"libraries\\threex\\THREEx.Debug.js"
+			],
+			[
+				"debug",
+				"libraries\\threex\\THREEx.Debug.js"
+			],
+			[
+				"world",
+				"scripts\\model\\WorldGenerator.js"
+			],
+			[
+				"sp",
+				"scripts\\Sphere.js"
+			],
+			[
+				"debug.",
+				"libraries\\threex\\THREEx.Debug.js"
+			],
+			[
+				"spher",
+				"scripts\\Sphere.js"
+			],
+			[
+				"su",
+				"scripts\\model\\SupercontinentCycle.js"
+			],
+			[
+				"sup",
+				"scripts\\model\\SupercontinentCycle.js"
+			],
+			[
+				"random",
+				"libraries\\random-0.26.js"
+			],
+			[
+				"qui",
+				"libraries\\threex\\THREEx.QuickHull.js"
+			],
+			[
+				"quic",
+				"libraries\\threex\\THREEx.QuickHull.js"
+			],
+			[
+				"ca",
+				"scripts\\Cached.js"
+			],
+			[
+				"con",
+				"libraries\\three.js\\THREE.ConvexGeometry.js"
+			],
+			[
+				"quick",
+				"libraries\\threex\\THREEx.QuickHull"
+			],
+			[
+				"fi",
+				"F:\\Code\\tectonics.js\\scripts\\THREEx.FibonacciSphereGeometry.js"
+			],
+			[
+				"fibo",
+				"libraries\\threex\\THREEx.FibonacciSphereGeometry.js"
+			],
+			[
+				"w",
+				"scripts\\model\\World.js"
+			],
+			[
+				"threex",
+				"libraries\\threex\\threex.embedded.js"
+			],
+			[
+				"sphere",
+				"scripts\\FibonacciSphere.js"
+			],
+			[
+				"grid",
+				"scripts\\Grid.js"
+			],
+			[
+				"f",
+				"Find Results"
+			],
+			[
+				"fin",
+				"Find Results"
+			],
+			[
+				"g",
+				"scripts\\Grid.js"
+			],
+			[
+				"vor",
+				"scripts\\VoronoiSphere.js"
+			],
+			[
+				"vo",
+				"scripts\\VoronoiSphere.js"
+			],
+			[
+				"ver",
+				"scripts\\view\\vertex\\VertexShaders.js"
+			],
+			[
+				"shader",
+				"scripts\\view\\fragment\\FragmentShaders.js"
+			],
+			[
+				"gener",
+				"scripts\\view\\generate-shader-js.sh"
+			],
+			[
+				"cach",
+				"scripts\\Cached.js"
+			],
+			[
+				"v",
+				"scripts\\view\\View.js"
+			],
+			[
+				"voro",
+				"scripts\\Voronoi.js"
+			],
+			[
+				"plate",
+				"scripts\\model\\Plate.js"
+			],
+			[
+				"json",
+				"scripts\\JsonSerializer.js"
+			],
+			[
+				"cell",
+				"scripts\\model\\Cell.js"
+			],
+			[
+				"pla",
+				"scripts\\model\\Plate.js"
+			],
+			[
+				"publi",
+				"scripts\\Publisher.js"
+			],
+			[
+				"late",
+				"scripts\\model\\Plate.js"
+			],
+			[
+				"vi",
+				"scripts\\view\\View.js"
+			],
+			[
+				"cac",
+				"scripts\\Cached.js"
+			],
+			[
+				"viewmod",
+				"scripts\\ViewModel.js"
+			],
+			[
+				"inde",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"move_context": "words",
+		"move_context_do_once": false
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
